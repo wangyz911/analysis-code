@@ -1,0 +1,23 @@
+<!-- saved from url=(0014)about:internet -->
+<html>
+<body>
+<script src="resources/eml_report_loadable_data.js"></script>
+<pre class="code">
+<span class="srcline"><span class="lineno"><a href="1,1" id="srcline1"> 1</a></span><span class="line"><span class="keyword">function</span> <span class="var type1" id="S2T1U3">count</span> = mandelbrot_count(<span class="var type1" id="S3T2U6">maxIterations</span>, <span class="var type1" id="S4T1U7">xGrid</span>, <span class="var type1" id="S5T1U8">yGrid</span>)</span></span>
+<span class="srcline"><span class="lineno"><a href="1,2" id="srcline2"> 2</a></span><span class="line"><span class="comment">% mandelbrot computation</span></span></span>
+<span class="srcline"><span class="lineno"><a href="1,3" id="srcline3"> 3</a></span><span class="line"></span></span>
+<span class="srcline"><span class="lineno"><a href="1,4" id="srcline4"> 4</a></span><span class="line"><span class="mxinfo " id="T3:U5"><span class="var type1" id="S6T3U11">z0</span> = <span class="mxinfo " id="T3:U7"><span class="var type1" id="S4T1U13">xGrid</span> + <span class="mxinfo " id="T3:U9"><span class="mxinfo " id="T4:U10">1i</span>*<span class="var type1" id="S5T1U16">yGrid</span></span></span></span>;</span></span>
+<span class="srcline"><span class="lineno"><a href="1,5" id="srcline5"> 5</a></span><span class="line"><span class="mxinfo " id="T1:U12"><span class="var type1" id="S2T1U19">count</span> = <span class="mxinfo " id="T1:U14">ones(size(<span class="var type1" id="S6T3U24">z0</span>))</span></span>;</span></span>
+<span class="srcline"><span class="lineno"><a href="1,6" id="srcline6"> 6</a></span><span class="line"><span class="comment">% Add Kernelfun pragma to trigger kernel creation</span></span></span>
+<span class="srcline"><span class="lineno"><a href="1,7" id="srcline7"> 7</a></span><span class="line">coder.gpu.kernelfun;</span></span>
+<span class="srcline"><span class="lineno"><a href="1,8" id="srcline8"> 8</a></span><span class="line"></span></span>
+<span class="srcline"><span class="lineno"><a href="1,9" id="srcline9"> 9</a></span><span class="line"><span class="mxinfo " id="T3:U16"><span class="var type1" id="S10T3U33">z</span> = <span class="var type1" id="S6T3U34">z0</span></span>;</span></span>
+<span class="srcline"><span class="lineno"><a href="1,10" id="srcline10">10</a></span><span class="line"><span class="keyword">for</span> <span class="var type1" id="S11T2U37">n</span> = <span class="mxinfo " id="T2:U20">0</span>:<span class="var type1" id="S3T2U40">maxIterations</span></span></span>
+<span class="srcline"><span class="lineno"><a href="1,11" id="srcline11">11</a></span><span class="line">    <span class="mxinfo " id="T3:U22"><span class="var type1" id="S10T3U43">z</span> = <span class="mxinfo " id="T3:U24"><span class="mxinfo " id="T3:U25"><span class="var type1" id="S10T3U46">z</span>.*<span class="var type1" id="S10T3U47">z</span></span> + <span class="var type1" id="S6T3U48">z0</span></span></span>;</span></span>
+<span class="srcline"><span class="lineno"><a href="1,12" id="srcline12">12</a></span><span class="line">    <span class="mxinfo " id="T5:U29"><span class="var type1" id="S12T5U51">inside</span> = <span class="mxinfo " id="T5:U31"><span class="mxinfo " id="T1:U32">abs(<span class="var type1" id="S10T3U55">z</span>)</span>&lt;=<span class="mxinfo " id="T2:U34">2</span></span></span>;</span></span>
+<span class="srcline"><span class="lineno"><a href="1,13" id="srcline13">13</a></span><span class="line">    <span class="mxinfo " id="T1:U35"><span class="var type1" id="S2T1U59">count</span> = <span class="mxinfo " id="T1:U37"><span class="var type1" id="S2T1U61">count</span> + <span class="var type1" id="S12T5U62">inside</span></span></span>;</span></span>
+<span class="srcline"><span class="lineno"><a href="1,14" id="srcline14">14</a></span><span class="line"><span class="keyword">end</span></span></span>
+<span class="srcline"><span class="lineno"><a href="1,15" id="srcline15">15</a></span><span class="line"><span class="mxinfo " id="T1:U40"><span class="var type1" id="S2T1U65">count</span> = <span class="mxinfo " id="T1:U42">log(<span class="var type1" id="S2T1U68">count</span>)</span></span>;</span></span>
+</pre>
+</body>
+</html>

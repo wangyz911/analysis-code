@@ -1,0 +1,80 @@
+<html>
+<head>
+<div class="baselog">
+<link rel="stylesheet" href="resources\\matlab-report-styles.css" type="text/css" />
+<style type="text/css" media="screen">
+div.treeview { white-space: nowrap; }
+.treeview img { border: 0px; vertical-align: middle; }
+.trigger { cursor: pointer; }
+.branch { display: none; margin-left: 22px; }
+span.lnnolink { cursor: pointer; color: blue; text-decoration: underline; padding: 1 }
+span.lnnonorm { color: grey; padding: 1 }
+span.textnorm { color: black; padding: 1 }
+span.textcmnt { color: green; padding: 1 }
+span.msglink { cursor: pointer; color: blue; text-decoration: underline }
+span.treelink { cursor: pointer; color: blue; text-decoration: underline }
+.error { color: red; }
+.fcflink { cursor: pointer; color: blue; text-decoration: underline }
+div.tooltip { visibility: hidden; position: fixed;
+  background-color: lightyellow; border: 1px solid black; }
+.td-linebottomrt-gray {border-bottom:1px solid #BBB; border-right:1px solid #BBB;background-color:#F0F0F0;}
+.td-linebottomrt-link {border-bottom:1px solid #BBB; border-right:1px solid #BBB;color:Blue;}
+</style>
+</div>
+<title>Code Generation Report For 'mandelbrot_count'</title>
+</head>
+<body>
+<div class="report-head">MATLAB Coder Build Log</div><p/>
+<div class="baselog">
+<div class="grayline"></div>
+<table cellpadding="4" cellspacing="1"><tr>
+<td align="left" class="td-linebottomrt-gray" colspan="2">Build Parameters</td>
+</tr>
+<tr><td align="left" valign="top" class="td-linebottomrt">Build directory</td>
+<td align="left" valign="top" class="td-linebottomrt-link"><a href="matlab: cd('E:\analysis code\data-analysis-for-magnet-tweezers\cuda test\codegen\dll\mandelbrot_count')">E:\analysis code\data-analysis-for-magnet-tweezers\cuda test\codegen\dll\mandelbrot_count</a></td></tr>
+<tr><td align="left" valign="top" class="td-linebottomrt">Make wrapper</td>
+<td align="left" valign="top" class="td-linebottomrt-link">.\mandelbrot_count_rtw.bat</td></tr>
+<tr><td align="left" valign="top" class="td-linebottomrt">Make command</td>
+<td align="left" valign="top" class="td-linebottomrt-link">nmake  -f mandelbrot_count_rtw.mk all</td></tr>
+</table>
+<br/>
+<table border="1" cellpadding="4" cellspacing="1" width="100%">
+<tr><td align="left" class="td-linebottomrt-gray">Build Log</td></tr>
+<tr><td valign="top" class="td-script">
+<pre>
+<span class="td-line-number">    1   </span><span class="td-line-normal"></span>
+<span class="td-line-number">    2   </span><span class="td-line-normal">Microsoft (R) 程序维护实用工具 12.00.21005.1 版</span>
+<span class="td-line-number">    3   </span><span class="td-line-normal">版权所有 (C) Microsoft Corporation。  保留所有权利。</span>
+<span class="td-line-number">    4   </span><span class="td-line-normal"></span>
+<span class="td-line-number">    5   </span><span class="td-line-normal">	nvcc -c  -Xcompiler "/wd 4819" -rdc=true -Xcudafe "--diag_suppress=unsigned_compare_with_zero"  -O0 -arch sm_35 -D MODEL=mandelbrot_count -D HAVESTDIO -D USE_RTMODEL -o  "mandelbrot_count_initialize.obj" "E:\ANALYS~1\DATA-A~1\CUDATE~1\codegen\dll\mandelbrot_count\mandelbrot_count_initialize.cu"</span>
+<span class="td-line-number">    6   </span><span class="td-line-normal">mandelbrot_count_initialize.cu</span>
+<span class="td-line-number">    7   </span><span class="td-line-normal">	nvcc -c  -Xcompiler "/wd 4819" -rdc=true -Xcudafe "--diag_suppress=unsigned_compare_with_zero"  -O0 -arch sm_35 -D MODEL=mandelbrot_count -D HAVESTDIO -D USE_RTMODEL -o  "mandelbrot_count_terminate.obj" "E:\ANALYS~1\DATA-A~1\CUDATE~1\codegen\dll\mandelbrot_count\mandelbrot_count_terminate.cu"</span>
+<span class="td-line-number">    8   </span><span class="td-line-normal">mandelbrot_count_terminate.cu</span>
+<span class="td-line-number">    9   </span><span class="td-line-normal">	nvcc -c  -Xcompiler "/wd 4819" -rdc=true -Xcudafe "--diag_suppress=unsigned_compare_with_zero"  -O0 -arch sm_35 -D MODEL=mandelbrot_count -D HAVESTDIO -D USE_RTMODEL -o  "mandelbrot_count.obj" "E:\ANALYS~1\DATA-A~1\CUDATE~1\codegen\dll\mandelbrot_count\mandelbrot_count.cu"</span>
+<span class="td-line-number">   10   </span><span class="td-line-normal">mandelbrot_count.cu</span>
+<span class="td-line-number">   11   </span><span class="td-line-normal">	nvcc -c  -Xcompiler "/wd 4819" -rdc=true -Xcudafe "--diag_suppress=unsigned_compare_with_zero"  -O0 -arch sm_35 -D MODEL=mandelbrot_count -D HAVESTDIO -D USE_RTMODEL -o  "rt_nonfinite.obj" "E:\ANALYS~1\DATA-A~1\CUDATE~1\codegen\dll\mandelbrot_count\rt_nonfinite.cu"</span>
+<span class="td-line-number">   12   </span><span class="td-line-normal">rt_nonfinite.cu</span>
+<span class="td-line-number">   13   </span><span class="td-line-normal">	nvcc -c  -Xcompiler "/wd 4819" -rdc=true -Xcudafe "--diag_suppress=unsigned_compare_with_zero"  -O0 -arch sm_35 -D MODEL=mandelbrot_count -D HAVESTDIO -D USE_RTMODEL -o  "rtGetNaN.obj" "E:\ANALYS~1\DATA-A~1\CUDATE~1\codegen\dll\mandelbrot_count\rtGetNaN.cu"</span>
+<span class="td-line-number">   14   </span><span class="td-line-normal">rtGetNaN.cu</span>
+<span class="td-line-number">   15   </span><span class="td-line-normal">	nvcc -c  -Xcompiler "/wd 4819" -rdc=true -Xcudafe "--diag_suppress=unsigned_compare_with_zero"  -O0 -arch sm_35 -D MODEL=mandelbrot_count -D HAVESTDIO -D USE_RTMODEL -o  "rtGetInf.obj" "E:\ANALYS~1\DATA-A~1\CUDATE~1\codegen\dll\mandelbrot_count\rtGetInf.cu"</span>
+<span class="td-line-number">   16   </span><span class="td-line-normal">rtGetInf.cu</span>
+<span class="td-line-number">   17   </span><span class="td-line-normal">### Creating dynamic library ".\mandelbrot_count.dll" ...</span>
+<span class="td-line-number">   18   </span><span class="td-line-normal">	nvcc -shared -Xnvlink -w -L"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\lib\x64" -Xarchive "/IGNORE:4006" -Xarchive "/IGNORE:4221" cufft.lib cudart.lib cublas.lib cusolver.lib -Wno-deprecated-gpu-targets -Xlinker -dll -Xlinker -def:mandelbrot_count.def -o .\mandelbrot_count.dll mandelbrot_count_initialize.obj mandelbrot_count_terminate.obj mandelbrot_count.obj rt_nonfinite.obj rtGetNaN.obj rtGetInf.obj  </span>
+<span class="td-line-number">   19   </span><span class="td-line-normal">cufft.lib</span>
+<span class="td-line-number">   20   </span><span class="td-line-normal">cudart.lib</span>
+<span class="td-line-number">   21   </span><span class="td-line-normal">cublas.lib</span>
+<span class="td-line-number">   22   </span><span class="td-line-normal">cusolver.lib</span>
+<span class="td-line-number">   23   </span><span class="td-line-normal">mandelbrot_count_initialize.obj</span>
+<span class="td-line-number">   24   </span><span class="td-line-normal">mandelbrot_count_terminate.obj</span>
+<span class="td-line-number">   25   </span><span class="td-line-normal">mandelbrot_count.obj</span>
+<span class="td-line-number">   26   </span><span class="td-line-normal">rt_nonfinite.obj</span>
+<span class="td-line-number">   27   </span><span class="td-line-normal">rtGetNaN.obj</span>
+<span class="td-line-number">   28   </span><span class="td-line-normal">rtGetInf.obj</span>
+<span class="td-line-number">   29   </span><span class="td-line-normal">   正在创建库 ./mandelbrot_count.lib 和对象 ./mandelbrot_count.exp</span>
+<span class="td-line-number">   30   </span><span class="td-line-normal">### Created: .\mandelbrot_count.dll</span>
+<span class="td-line-number">   31   </span><span class="td-line-normal">### Successfully generated all binary outputs.</span>
+</pre>
+</td></tr></table>
+</div>
+</body>
+</html>

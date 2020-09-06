@@ -1,0 +1,13616 @@
+//-2.000
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "2", 1
+KeyPress ".", 1
+KeyPress "0", 1
+KeyPress "0", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.998
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "9", 1
+KeyPress "9", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.996
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "9", 1
+KeyPress "9", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.994
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "9", 1
+KeyPress "9", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.992
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "9", 1
+KeyPress "9", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.990
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "9", 1
+KeyPress "9", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.988
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "9", 1
+KeyPress "8", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.986
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "9", 1
+KeyPress "8", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.984
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "9", 1
+KeyPress "8", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.982
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "9", 1
+KeyPress "8", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.980
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "9", 1
+KeyPress "8", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.978
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "9", 1
+KeyPress "7", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.976
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "9", 1
+KeyPress "7", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.974
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "9", 1
+KeyPress "7", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.972
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "9", 1
+KeyPress "7", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.970
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "9", 1
+KeyPress "7", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.968
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "9", 1
+KeyPress "6", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.966
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "9", 1
+KeyPress "6", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.964
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "9", 1
+KeyPress "6", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.962
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "9", 1
+KeyPress "6", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.960
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "9", 1
+KeyPress "6", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.958
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "9", 1
+KeyPress "5", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.956
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "9", 1
+KeyPress "5", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.954
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "9", 1
+KeyPress "5", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.952
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "9", 1
+KeyPress "5", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.950
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "9", 1
+KeyPress "5", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.948
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "9", 1
+KeyPress "4", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.946
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "9", 1
+KeyPress "4", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.944
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "9", 1
+KeyPress "4", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.942
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "9", 1
+KeyPress "4", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.940
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "9", 1
+KeyPress "4", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.938
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "9", 1
+KeyPress "3", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.936
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "9", 1
+KeyPress "3", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.934
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "9", 1
+KeyPress "3", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.932
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "9", 1
+KeyPress "3", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.930
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "9", 1
+KeyPress "3", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.928
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "9", 1
+KeyPress "2", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.926
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "9", 1
+KeyPress "2", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.924
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "9", 1
+KeyPress "2", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.922
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "9", 1
+KeyPress "2", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.920
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "9", 1
+KeyPress "2", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.918
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "9", 1
+KeyPress "1", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.916
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "9", 1
+KeyPress "1", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.914
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "9", 1
+KeyPress "1", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.912
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "9", 1
+KeyPress "1", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.910
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "9", 1
+KeyPress "1", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.908
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "9", 1
+KeyPress "0", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.906
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "9", 1
+KeyPress "0", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.904
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "9", 1
+KeyPress "0", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.902
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "9", 1
+KeyPress "0", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.900
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "9", 1
+KeyPress "0", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.898
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "8", 1
+KeyPress "9", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.896
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "8", 1
+KeyPress "9", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.894
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "8", 1
+KeyPress "9", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.892
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "8", 1
+KeyPress "9", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.890
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "8", 1
+KeyPress "9", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.888
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "8", 1
+KeyPress "8", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.886
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "8", 1
+KeyPress "8", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.884
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "8", 1
+KeyPress "8", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.882
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "8", 1
+KeyPress "8", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.880
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "8", 1
+KeyPress "8", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.878
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "8", 1
+KeyPress "7", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.876
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "8", 1
+KeyPress "7", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.874
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "8", 1
+KeyPress "7", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.872
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "8", 1
+KeyPress "7", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.870
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "8", 1
+KeyPress "7", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.868
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "8", 1
+KeyPress "6", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.866
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "8", 1
+KeyPress "6", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.864
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "8", 1
+KeyPress "6", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.862
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "8", 1
+KeyPress "6", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.860
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "8", 1
+KeyPress "6", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.858
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "8", 1
+KeyPress "5", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.856
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "8", 1
+KeyPress "5", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.854
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "8", 1
+KeyPress "5", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.852
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "8", 1
+KeyPress "5", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.850
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "8", 1
+KeyPress "5", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.848
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "8", 1
+KeyPress "4", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.846
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "8", 1
+KeyPress "4", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.844
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "8", 1
+KeyPress "4", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.842
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "8", 1
+KeyPress "4", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.840
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "8", 1
+KeyPress "4", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.838
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "8", 1
+KeyPress "3", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.836
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "8", 1
+KeyPress "3", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.834
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "8", 1
+KeyPress "3", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.832
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "8", 1
+KeyPress "3", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.830
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "8", 1
+KeyPress "3", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.828
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "8", 1
+KeyPress "2", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.826
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "8", 1
+KeyPress "2", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.824
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "8", 1
+KeyPress "2", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.822
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "8", 1
+KeyPress "2", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.820
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "8", 1
+KeyPress "2", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.818
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "8", 1
+KeyPress "1", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.816
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "8", 1
+KeyPress "1", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.814
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "8", 1
+KeyPress "1", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.812
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "8", 1
+KeyPress "1", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.810
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "8", 1
+KeyPress "1", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.808
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "8", 1
+KeyPress "0", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.806
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "8", 1
+KeyPress "0", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.804
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "8", 1
+KeyPress "0", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.802
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "8", 1
+KeyPress "0", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.800
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "8", 1
+KeyPress "0", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.798
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "7", 1
+KeyPress "9", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.796
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "7", 1
+KeyPress "9", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.794
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "7", 1
+KeyPress "9", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.792
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "7", 1
+KeyPress "9", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.790
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "7", 1
+KeyPress "9", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.788
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "7", 1
+KeyPress "8", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.786
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "7", 1
+KeyPress "8", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.784
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "7", 1
+KeyPress "8", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.782
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "7", 1
+KeyPress "8", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.780
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "7", 1
+KeyPress "8", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.778
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "7", 1
+KeyPress "7", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.776
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "7", 1
+KeyPress "7", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.774
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "7", 1
+KeyPress "7", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.772
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "7", 1
+KeyPress "7", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.770
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "7", 1
+KeyPress "7", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.768
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "7", 1
+KeyPress "6", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.766
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "7", 1
+KeyPress "6", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.764
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "7", 1
+KeyPress "6", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.762
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "7", 1
+KeyPress "6", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.760
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "7", 1
+KeyPress "6", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.758
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "7", 1
+KeyPress "5", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.756
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "7", 1
+KeyPress "5", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.754
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "7", 1
+KeyPress "5", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.752
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "7", 1
+KeyPress "5", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.750
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "7", 1
+KeyPress "5", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.748
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "7", 1
+KeyPress "4", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.746
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "7", 1
+KeyPress "4", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.744
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "7", 1
+KeyPress "4", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.742
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "7", 1
+KeyPress "4", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.740
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "7", 1
+KeyPress "4", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.738
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "7", 1
+KeyPress "3", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.736
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "7", 1
+KeyPress "3", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.734
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "7", 1
+KeyPress "3", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.732
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "7", 1
+KeyPress "3", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.730
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "7", 1
+KeyPress "3", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.728
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "7", 1
+KeyPress "2", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.726
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "7", 1
+KeyPress "2", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.724
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "7", 1
+KeyPress "2", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.722
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "7", 1
+KeyPress "2", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.720
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "7", 1
+KeyPress "2", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.718
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "7", 1
+KeyPress "1", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.716
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "7", 1
+KeyPress "1", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.714
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "7", 1
+KeyPress "1", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.712
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "7", 1
+KeyPress "1", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.710
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "7", 1
+KeyPress "1", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.708
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "7", 1
+KeyPress "0", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.706
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "7", 1
+KeyPress "0", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.704
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "7", 1
+KeyPress "0", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.702
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "7", 1
+KeyPress "0", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.700
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "7", 1
+KeyPress "0", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.698
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "6", 1
+KeyPress "9", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.696
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "6", 1
+KeyPress "9", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.694
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "6", 1
+KeyPress "9", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.692
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "6", 1
+KeyPress "9", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.690
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "6", 1
+KeyPress "9", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.688
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "6", 1
+KeyPress "8", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.686
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "6", 1
+KeyPress "8", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.684
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "6", 1
+KeyPress "8", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.682
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "6", 1
+KeyPress "8", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.680
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "6", 1
+KeyPress "8", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.678
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "6", 1
+KeyPress "7", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.676
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "6", 1
+KeyPress "7", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.674
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "6", 1
+KeyPress "7", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.672
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "6", 1
+KeyPress "7", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.670
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "6", 1
+KeyPress "7", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.668
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "6", 1
+KeyPress "6", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.666
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "6", 1
+KeyPress "6", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.664
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "6", 1
+KeyPress "6", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.662
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "6", 1
+KeyPress "6", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.660
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "6", 1
+KeyPress "6", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.658
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "6", 1
+KeyPress "5", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.656
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "6", 1
+KeyPress "5", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.654
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "6", 1
+KeyPress "5", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.652
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "6", 1
+KeyPress "5", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.650
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "6", 1
+KeyPress "5", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.648
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "6", 1
+KeyPress "4", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.646
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "6", 1
+KeyPress "4", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.644
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "6", 1
+KeyPress "4", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.642
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "6", 1
+KeyPress "4", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.640
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "6", 1
+KeyPress "4", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.638
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "6", 1
+KeyPress "3", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.636
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "6", 1
+KeyPress "3", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.634
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "6", 1
+KeyPress "3", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.632
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "6", 1
+KeyPress "3", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.630
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "6", 1
+KeyPress "3", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.628
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "6", 1
+KeyPress "2", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.626
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "6", 1
+KeyPress "2", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.624
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "6", 1
+KeyPress "2", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.622
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "6", 1
+KeyPress "2", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.620
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "6", 1
+KeyPress "2", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.618
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "6", 1
+KeyPress "1", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.616
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "6", 1
+KeyPress "1", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.614
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "6", 1
+KeyPress "1", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.612
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "6", 1
+KeyPress "1", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.610
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "6", 1
+KeyPress "1", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.608
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "6", 1
+KeyPress "0", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.606
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "6", 1
+KeyPress "0", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.604
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "6", 1
+KeyPress "0", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.602
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "6", 1
+KeyPress "0", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.600
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "6", 1
+KeyPress "0", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.598
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "5", 1
+KeyPress "9", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.596
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "5", 1
+KeyPress "9", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.594
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "5", 1
+KeyPress "9", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.592
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "5", 1
+KeyPress "9", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.590
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "5", 1
+KeyPress "9", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.588
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "5", 1
+KeyPress "8", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.586
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "5", 1
+KeyPress "8", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.584
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "5", 1
+KeyPress "8", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.582
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "5", 1
+KeyPress "8", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.580
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "5", 1
+KeyPress "8", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.578
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "5", 1
+KeyPress "7", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.576
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "5", 1
+KeyPress "7", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.574
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "5", 1
+KeyPress "7", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.572
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "5", 1
+KeyPress "7", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.570
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "5", 1
+KeyPress "7", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.568
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "5", 1
+KeyPress "6", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.566
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "5", 1
+KeyPress "6", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.564
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "5", 1
+KeyPress "6", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.562
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "5", 1
+KeyPress "6", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.560
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "5", 1
+KeyPress "6", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.558
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "5", 1
+KeyPress "5", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.556
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "5", 1
+KeyPress "5", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.554
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "5", 1
+KeyPress "5", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.552
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "5", 1
+KeyPress "5", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.550
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "5", 1
+KeyPress "5", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.548
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "5", 1
+KeyPress "4", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.546
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "5", 1
+KeyPress "4", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.544
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "5", 1
+KeyPress "4", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.542
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "5", 1
+KeyPress "4", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.540
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "5", 1
+KeyPress "4", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.538
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "5", 1
+KeyPress "3", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.536
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "5", 1
+KeyPress "3", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.534
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "5", 1
+KeyPress "3", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.532
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "5", 1
+KeyPress "3", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.530
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "5", 1
+KeyPress "3", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.528
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "5", 1
+KeyPress "2", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.526
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "5", 1
+KeyPress "2", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.524
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "5", 1
+KeyPress "2", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.522
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "5", 1
+KeyPress "2", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.520
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "5", 1
+KeyPress "2", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.518
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "5", 1
+KeyPress "1", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.516
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "5", 1
+KeyPress "1", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.514
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "5", 1
+KeyPress "1", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.512
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "5", 1
+KeyPress "1", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.510
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "5", 1
+KeyPress "1", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.508
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "5", 1
+KeyPress "0", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.506
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "5", 1
+KeyPress "0", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.504
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "5", 1
+KeyPress "0", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.502
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "5", 1
+KeyPress "0", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.500
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "5", 1
+KeyPress "0", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.498
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "4", 1
+KeyPress "9", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.496
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "4", 1
+KeyPress "9", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.494
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "4", 1
+KeyPress "9", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.492
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "4", 1
+KeyPress "9", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.490
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "4", 1
+KeyPress "9", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.488
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "4", 1
+KeyPress "8", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.486
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "4", 1
+KeyPress "8", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.484
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "4", 1
+KeyPress "8", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.482
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "4", 1
+KeyPress "8", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.480
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "4", 1
+KeyPress "8", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.478
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "4", 1
+KeyPress "7", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.476
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "4", 1
+KeyPress "7", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.474
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "4", 1
+KeyPress "7", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.472
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "4", 1
+KeyPress "7", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.470
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "4", 1
+KeyPress "7", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.468
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "4", 1
+KeyPress "6", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.466
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "4", 1
+KeyPress "6", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.464
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "4", 1
+KeyPress "6", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.462
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "4", 1
+KeyPress "6", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.460
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "4", 1
+KeyPress "6", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.458
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "4", 1
+KeyPress "5", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.456
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "4", 1
+KeyPress "5", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.454
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "4", 1
+KeyPress "5", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.452
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "4", 1
+KeyPress "5", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.450
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "4", 1
+KeyPress "5", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.448
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "4", 1
+KeyPress "4", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.446
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "4", 1
+KeyPress "4", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.444
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "4", 1
+KeyPress "4", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.442
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "4", 1
+KeyPress "4", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.440
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "4", 1
+KeyPress "4", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.438
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "4", 1
+KeyPress "3", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.436
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "4", 1
+KeyPress "3", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.434
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "4", 1
+KeyPress "3", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.432
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "4", 1
+KeyPress "3", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.430
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "4", 1
+KeyPress "3", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.428
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "4", 1
+KeyPress "2", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.426
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "4", 1
+KeyPress "2", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.424
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "4", 1
+KeyPress "2", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.422
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "4", 1
+KeyPress "2", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.420
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "4", 1
+KeyPress "2", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.418
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "4", 1
+KeyPress "1", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.416
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "4", 1
+KeyPress "1", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.414
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "4", 1
+KeyPress "1", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.412
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "4", 1
+KeyPress "1", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.410
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "4", 1
+KeyPress "1", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.408
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "4", 1
+KeyPress "0", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.406
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "4", 1
+KeyPress "0", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.404
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "4", 1
+KeyPress "0", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.402
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "4", 1
+KeyPress "0", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.400
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "4", 1
+KeyPress "0", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.398
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "3", 1
+KeyPress "9", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.396
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "3", 1
+KeyPress "9", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.394
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "3", 1
+KeyPress "9", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.392
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "3", 1
+KeyPress "9", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.390
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "3", 1
+KeyPress "9", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.388
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "3", 1
+KeyPress "8", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.386
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "3", 1
+KeyPress "8", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.384
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "3", 1
+KeyPress "8", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.382
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "3", 1
+KeyPress "8", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.380
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "3", 1
+KeyPress "8", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.378
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "3", 1
+KeyPress "7", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.376
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "3", 1
+KeyPress "7", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.374
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "3", 1
+KeyPress "7", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.372
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "3", 1
+KeyPress "7", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.370
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "3", 1
+KeyPress "7", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.368
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "3", 1
+KeyPress "6", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.366
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "3", 1
+KeyPress "6", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.364
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "3", 1
+KeyPress "6", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.362
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "3", 1
+KeyPress "6", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.360
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "3", 1
+KeyPress "6", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.358
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "3", 1
+KeyPress "5", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.356
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "3", 1
+KeyPress "5", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.354
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "3", 1
+KeyPress "5", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.352
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "3", 1
+KeyPress "5", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.350
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "3", 1
+KeyPress "5", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.348
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "3", 1
+KeyPress "4", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.346
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "3", 1
+KeyPress "4", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.344
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "3", 1
+KeyPress "4", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.342
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "3", 1
+KeyPress "4", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.340
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "3", 1
+KeyPress "4", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.338
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "3", 1
+KeyPress "3", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.336
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "3", 1
+KeyPress "3", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.334
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "3", 1
+KeyPress "3", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.332
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "3", 1
+KeyPress "3", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.330
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "3", 1
+KeyPress "3", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.328
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "3", 1
+KeyPress "2", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.326
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "3", 1
+KeyPress "2", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.324
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "3", 1
+KeyPress "2", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.322
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "3", 1
+KeyPress "2", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.320
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "3", 1
+KeyPress "2", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.318
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "3", 1
+KeyPress "1", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.316
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "3", 1
+KeyPress "1", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.314
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "3", 1
+KeyPress "1", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.312
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "3", 1
+KeyPress "1", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.310
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "3", 1
+KeyPress "1", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.308
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "3", 1
+KeyPress "0", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.306
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "3", 1
+KeyPress "0", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.304
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "3", 1
+KeyPress "0", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.302
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "3", 1
+KeyPress "0", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.300
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "3", 1
+KeyPress "0", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.298
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "2", 1
+KeyPress "9", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.296
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "2", 1
+KeyPress "9", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.294
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "2", 1
+KeyPress "9", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.292
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "2", 1
+KeyPress "9", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.290
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "2", 1
+KeyPress "9", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.288
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "2", 1
+KeyPress "8", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.286
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "2", 1
+KeyPress "8", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.284
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "2", 1
+KeyPress "8", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.282
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "2", 1
+KeyPress "8", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.280
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "2", 1
+KeyPress "8", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.278
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "2", 1
+KeyPress "7", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.276
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "2", 1
+KeyPress "7", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.274
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "2", 1
+KeyPress "7", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.272
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "2", 1
+KeyPress "7", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.270
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "2", 1
+KeyPress "7", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.268
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "2", 1
+KeyPress "6", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.266
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "2", 1
+KeyPress "6", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.264
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "2", 1
+KeyPress "6", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.262
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "2", 1
+KeyPress "6", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.260
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "2", 1
+KeyPress "6", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.258
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "2", 1
+KeyPress "5", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.256
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "2", 1
+KeyPress "5", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.254
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "2", 1
+KeyPress "5", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.252
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "2", 1
+KeyPress "5", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.250
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "2", 1
+KeyPress "5", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.248
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "2", 1
+KeyPress "4", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.246
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "2", 1
+KeyPress "4", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.244
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "2", 1
+KeyPress "4", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.242
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "2", 1
+KeyPress "4", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.240
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "2", 1
+KeyPress "4", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.238
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "2", 1
+KeyPress "3", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.236
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "2", 1
+KeyPress "3", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.234
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "2", 1
+KeyPress "3", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.232
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "2", 1
+KeyPress "3", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.230
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "2", 1
+KeyPress "3", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.228
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "2", 1
+KeyPress "2", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.226
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "2", 1
+KeyPress "2", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.224
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "2", 1
+KeyPress "2", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.222
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "2", 1
+KeyPress "2", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.220
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "2", 1
+KeyPress "2", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.218
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "2", 1
+KeyPress "1", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.216
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "2", 1
+KeyPress "1", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.214
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "2", 1
+KeyPress "1", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.212
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "2", 1
+KeyPress "1", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.210
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "2", 1
+KeyPress "1", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.208
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "2", 1
+KeyPress "0", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.206
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "2", 1
+KeyPress "0", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.204
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "2", 1
+KeyPress "0", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.202
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "2", 1
+KeyPress "0", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.200
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "2", 1
+KeyPress "0", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.198
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "1", 1
+KeyPress "9", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.196
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "1", 1
+KeyPress "9", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.194
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "1", 1
+KeyPress "9", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.192
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "1", 1
+KeyPress "9", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.190
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "1", 1
+KeyPress "9", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.188
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "1", 1
+KeyPress "8", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.186
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "1", 1
+KeyPress "8", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.184
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "1", 1
+KeyPress "8", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.182
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "1", 1
+KeyPress "8", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.180
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "1", 1
+KeyPress "8", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.178
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "1", 1
+KeyPress "7", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.176
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "1", 1
+KeyPress "7", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.174
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "1", 1
+KeyPress "7", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.172
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "1", 1
+KeyPress "7", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.170
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "1", 1
+KeyPress "7", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.168
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "1", 1
+KeyPress "6", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.166
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "1", 1
+KeyPress "6", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.164
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "1", 1
+KeyPress "6", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.162
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "1", 1
+KeyPress "6", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.160
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "1", 1
+KeyPress "6", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.158
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "1", 1
+KeyPress "5", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.156
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "1", 1
+KeyPress "5", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.154
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "1", 1
+KeyPress "5", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.152
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "1", 1
+KeyPress "5", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.150
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "1", 1
+KeyPress "5", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.148
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "1", 1
+KeyPress "4", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.146
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "1", 1
+KeyPress "4", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.144
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "1", 1
+KeyPress "4", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.142
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "1", 1
+KeyPress "4", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.140
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "1", 1
+KeyPress "4", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.138
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "1", 1
+KeyPress "3", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.136
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "1", 1
+KeyPress "3", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.134
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "1", 1
+KeyPress "3", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.132
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "1", 1
+KeyPress "3", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.130
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "1", 1
+KeyPress "3", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.128
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "1", 1
+KeyPress "2", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.126
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "1", 1
+KeyPress "2", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.124
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "1", 1
+KeyPress "2", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.122
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "1", 1
+KeyPress "2", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.120
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "1", 1
+KeyPress "2", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.118
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "1", 1
+KeyPress "1", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.116
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "1", 1
+KeyPress "1", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.114
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "1", 1
+KeyPress "1", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.112
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "1", 1
+KeyPress "1", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.110
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "1", 1
+KeyPress "1", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.108
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "1", 1
+KeyPress "0", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.106
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "1", 1
+KeyPress "0", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.104
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "1", 1
+KeyPress "0", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.102
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "1", 1
+KeyPress "0", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.100
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "1", 1
+KeyPress "0", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.098
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "0", 1
+KeyPress "9", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.096
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "0", 1
+KeyPress "9", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.094
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "0", 1
+KeyPress "9", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.092
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "0", 1
+KeyPress "9", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.090
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "0", 1
+KeyPress "9", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.088
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "0", 1
+KeyPress "8", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.086
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "0", 1
+KeyPress "8", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.084
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "0", 1
+KeyPress "8", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.082
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "0", 1
+KeyPress "8", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.080
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "0", 1
+KeyPress "8", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.078
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "0", 1
+KeyPress "7", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.076
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "0", 1
+KeyPress "7", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.074
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "0", 1
+KeyPress "7", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.072
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "0", 1
+KeyPress "7", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.070
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "0", 1
+KeyPress "7", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.068
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "0", 1
+KeyPress "6", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.066
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "0", 1
+KeyPress "6", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.064
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "0", 1
+KeyPress "6", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.062
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "0", 1
+KeyPress "6", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.060
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "0", 1
+KeyPress "6", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.058
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "0", 1
+KeyPress "5", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.056
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "0", 1
+KeyPress "5", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.054
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "0", 1
+KeyPress "5", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.052
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "0", 1
+KeyPress "5", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.050
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "0", 1
+KeyPress "5", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.048
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "0", 1
+KeyPress "4", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.046
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "0", 1
+KeyPress "4", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.044
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "0", 1
+KeyPress "4", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.042
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "0", 1
+KeyPress "4", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.040
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "0", 1
+KeyPress "4", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.038
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "0", 1
+KeyPress "3", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.036
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "0", 1
+KeyPress "3", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.034
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "0", 1
+KeyPress "3", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.032
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "0", 1
+KeyPress "3", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.030
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "0", 1
+KeyPress "3", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.028
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "0", 1
+KeyPress "2", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.026
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "0", 1
+KeyPress "2", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.024
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "0", 1
+KeyPress "2", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.022
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "0", 1
+KeyPress "2", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.020
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "0", 1
+KeyPress "2", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.018
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "0", 1
+KeyPress "1", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.016
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "0", 1
+KeyPress "1", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.014
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "0", 1
+KeyPress "1", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.012
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "0", 1
+KeyPress "1", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.010
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "0", 1
+KeyPress "1", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.008
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "0", 1
+KeyPress "0", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.006
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "0", 1
+KeyPress "0", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.004
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "0", 1
+KeyPress "0", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.002
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "0", 1
+KeyPress "0", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-1.000
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "1", 1
+KeyPress ".", 1
+KeyPress "0", 1
+KeyPress "0", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.998
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "9", 1
+KeyPress "9", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.996
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "9", 1
+KeyPress "9", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.994
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "9", 1
+KeyPress "9", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.992
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "9", 1
+KeyPress "9", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.990
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "9", 1
+KeyPress "9", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.988
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "9", 1
+KeyPress "8", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.986
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "9", 1
+KeyPress "8", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.984
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "9", 1
+KeyPress "8", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.982
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "9", 1
+KeyPress "8", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.980
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "9", 1
+KeyPress "8", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.978
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "9", 1
+KeyPress "7", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.976
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "9", 1
+KeyPress "7", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.974
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "9", 1
+KeyPress "7", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.972
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "9", 1
+KeyPress "7", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.970
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "9", 1
+KeyPress "7", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.968
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "9", 1
+KeyPress "6", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.966
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "9", 1
+KeyPress "6", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.964
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "9", 1
+KeyPress "6", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.962
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "9", 1
+KeyPress "6", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.960
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "9", 1
+KeyPress "6", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.958
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "9", 1
+KeyPress "5", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.956
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "9", 1
+KeyPress "5", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.954
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "9", 1
+KeyPress "5", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.952
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "9", 1
+KeyPress "5", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.950
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "9", 1
+KeyPress "5", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.948
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "9", 1
+KeyPress "4", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.946
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "9", 1
+KeyPress "4", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.944
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "9", 1
+KeyPress "4", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.942
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "9", 1
+KeyPress "4", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.940
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "9", 1
+KeyPress "4", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.938
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "9", 1
+KeyPress "3", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.936
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "9", 1
+KeyPress "3", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.934
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "9", 1
+KeyPress "3", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.932
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "9", 1
+KeyPress "3", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.930
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "9", 1
+KeyPress "3", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.928
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "9", 1
+KeyPress "2", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.926
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "9", 1
+KeyPress "2", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.924
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "9", 1
+KeyPress "2", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.922
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "9", 1
+KeyPress "2", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.920
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "9", 1
+KeyPress "2", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.918
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "9", 1
+KeyPress "1", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.916
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "9", 1
+KeyPress "1", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.914
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "9", 1
+KeyPress "1", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.912
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "9", 1
+KeyPress "1", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.910
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "9", 1
+KeyPress "1", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.908
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "9", 1
+KeyPress "0", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.906
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "9", 1
+KeyPress "0", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.904
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "9", 1
+KeyPress "0", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.902
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "9", 1
+KeyPress "0", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.900
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "9", 1
+KeyPress "0", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.898
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "8", 1
+KeyPress "9", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.896
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "8", 1
+KeyPress "9", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.894
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "8", 1
+KeyPress "9", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.892
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "8", 1
+KeyPress "9", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.890
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "8", 1
+KeyPress "9", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.888
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "8", 1
+KeyPress "8", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.886
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "8", 1
+KeyPress "8", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.884
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "8", 1
+KeyPress "8", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.882
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "8", 1
+KeyPress "8", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.880
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "8", 1
+KeyPress "8", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.878
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "8", 1
+KeyPress "7", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.876
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "8", 1
+KeyPress "7", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.874
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "8", 1
+KeyPress "7", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.872
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "8", 1
+KeyPress "7", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.870
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "8", 1
+KeyPress "7", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.868
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "8", 1
+KeyPress "6", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.866
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "8", 1
+KeyPress "6", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.864
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "8", 1
+KeyPress "6", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.862
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "8", 1
+KeyPress "6", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.860
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "8", 1
+KeyPress "6", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.858
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "8", 1
+KeyPress "5", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.856
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "8", 1
+KeyPress "5", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.854
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "8", 1
+KeyPress "5", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.852
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "8", 1
+KeyPress "5", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.850
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "8", 1
+KeyPress "5", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.848
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "8", 1
+KeyPress "4", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.846
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "8", 1
+KeyPress "4", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.844
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "8", 1
+KeyPress "4", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.842
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "8", 1
+KeyPress "4", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.840
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "8", 1
+KeyPress "4", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.838
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "8", 1
+KeyPress "3", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.836
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "8", 1
+KeyPress "3", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.834
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "8", 1
+KeyPress "3", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.832
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "8", 1
+KeyPress "3", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.830
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "8", 1
+KeyPress "3", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.828
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "8", 1
+KeyPress "2", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.826
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "8", 1
+KeyPress "2", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.824
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "8", 1
+KeyPress "2", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.822
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "8", 1
+KeyPress "2", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.820
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "8", 1
+KeyPress "2", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.818
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "8", 1
+KeyPress "1", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.816
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "8", 1
+KeyPress "1", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.814
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "8", 1
+KeyPress "1", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.812
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "8", 1
+KeyPress "1", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.810
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "8", 1
+KeyPress "1", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.808
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "8", 1
+KeyPress "0", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.806
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "8", 1
+KeyPress "0", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.804
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "8", 1
+KeyPress "0", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.802
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "8", 1
+KeyPress "0", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.800
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "8", 1
+KeyPress "0", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.798
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "7", 1
+KeyPress "9", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.796
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "7", 1
+KeyPress "9", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.794
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "7", 1
+KeyPress "9", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.792
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "7", 1
+KeyPress "9", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.790
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "7", 1
+KeyPress "9", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.788
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "7", 1
+KeyPress "8", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.786
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "7", 1
+KeyPress "8", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.784
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "7", 1
+KeyPress "8", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.782
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "7", 1
+KeyPress "8", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.780
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "7", 1
+KeyPress "8", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.778
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "7", 1
+KeyPress "7", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.776
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "7", 1
+KeyPress "7", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.774
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "7", 1
+KeyPress "7", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.772
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "7", 1
+KeyPress "7", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.770
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "7", 1
+KeyPress "7", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.768
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "7", 1
+KeyPress "6", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.766
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "7", 1
+KeyPress "6", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.764
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "7", 1
+KeyPress "6", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.762
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "7", 1
+KeyPress "6", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.760
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "7", 1
+KeyPress "6", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.758
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "7", 1
+KeyPress "5", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.756
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "7", 1
+KeyPress "5", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.754
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "7", 1
+KeyPress "5", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.752
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "7", 1
+KeyPress "5", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.750
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "7", 1
+KeyPress "5", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.748
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "7", 1
+KeyPress "4", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.746
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "7", 1
+KeyPress "4", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.744
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "7", 1
+KeyPress "4", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.742
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "7", 1
+KeyPress "4", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.740
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "7", 1
+KeyPress "4", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.738
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "7", 1
+KeyPress "3", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.736
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "7", 1
+KeyPress "3", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.734
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "7", 1
+KeyPress "3", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.732
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "7", 1
+KeyPress "3", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.730
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "7", 1
+KeyPress "3", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.728
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "7", 1
+KeyPress "2", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.726
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "7", 1
+KeyPress "2", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.724
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "7", 1
+KeyPress "2", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.722
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "7", 1
+KeyPress "2", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.720
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "7", 1
+KeyPress "2", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.718
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "7", 1
+KeyPress "1", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.716
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "7", 1
+KeyPress "1", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.714
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "7", 1
+KeyPress "1", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.712
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "7", 1
+KeyPress "1", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.710
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "7", 1
+KeyPress "1", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.708
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "7", 1
+KeyPress "0", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.706
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "7", 1
+KeyPress "0", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.704
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "7", 1
+KeyPress "0", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.702
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "7", 1
+KeyPress "0", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.700
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "7", 1
+KeyPress "0", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.698
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "6", 1
+KeyPress "9", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.696
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "6", 1
+KeyPress "9", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.694
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "6", 1
+KeyPress "9", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.692
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "6", 1
+KeyPress "9", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.690
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "6", 1
+KeyPress "9", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.688
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "6", 1
+KeyPress "8", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.686
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "6", 1
+KeyPress "8", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.684
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "6", 1
+KeyPress "8", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.682
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "6", 1
+KeyPress "8", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.680
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "6", 1
+KeyPress "8", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.678
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "6", 1
+KeyPress "7", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.676
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "6", 1
+KeyPress "7", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.674
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "6", 1
+KeyPress "7", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.672
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "6", 1
+KeyPress "7", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.670
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "6", 1
+KeyPress "7", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.668
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "6", 1
+KeyPress "6", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.666
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "6", 1
+KeyPress "6", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.664
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "6", 1
+KeyPress "6", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.662
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "6", 1
+KeyPress "6", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.660
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "6", 1
+KeyPress "6", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.658
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "6", 1
+KeyPress "5", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.656
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "6", 1
+KeyPress "5", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.654
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "6", 1
+KeyPress "5", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.652
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "6", 1
+KeyPress "5", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.650
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "6", 1
+KeyPress "5", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.648
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "6", 1
+KeyPress "4", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.646
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "6", 1
+KeyPress "4", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.644
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "6", 1
+KeyPress "4", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.642
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "6", 1
+KeyPress "4", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.640
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "6", 1
+KeyPress "4", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.638
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "6", 1
+KeyPress "3", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.636
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "6", 1
+KeyPress "3", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.634
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "6", 1
+KeyPress "3", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.632
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "6", 1
+KeyPress "3", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.630
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "6", 1
+KeyPress "3", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.628
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "6", 1
+KeyPress "2", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.626
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "6", 1
+KeyPress "2", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.624
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "6", 1
+KeyPress "2", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.622
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "6", 1
+KeyPress "2", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.620
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "6", 1
+KeyPress "2", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.618
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "6", 1
+KeyPress "1", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.616
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "6", 1
+KeyPress "1", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.614
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "6", 1
+KeyPress "1", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.612
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "6", 1
+KeyPress "1", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.610
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "6", 1
+KeyPress "1", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.608
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "6", 1
+KeyPress "0", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.606
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "6", 1
+KeyPress "0", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.604
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "6", 1
+KeyPress "0", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.602
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "6", 1
+KeyPress "0", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.600
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "6", 1
+KeyPress "0", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.598
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "5", 1
+KeyPress "9", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.596
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "5", 1
+KeyPress "9", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.594
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "5", 1
+KeyPress "9", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.592
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "5", 1
+KeyPress "9", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.590
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "5", 1
+KeyPress "9", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.588
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "5", 1
+KeyPress "8", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.586
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "5", 1
+KeyPress "8", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.584
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "5", 1
+KeyPress "8", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.582
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "5", 1
+KeyPress "8", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.580
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "5", 1
+KeyPress "8", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.578
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "5", 1
+KeyPress "7", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.576
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "5", 1
+KeyPress "7", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.574
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "5", 1
+KeyPress "7", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.572
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "5", 1
+KeyPress "7", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.570
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "5", 1
+KeyPress "7", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.568
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "5", 1
+KeyPress "6", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.566
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "5", 1
+KeyPress "6", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.564
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "5", 1
+KeyPress "6", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.562
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "5", 1
+KeyPress "6", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.560
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "5", 1
+KeyPress "6", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.558
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "5", 1
+KeyPress "5", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.556
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "5", 1
+KeyPress "5", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.554
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "5", 1
+KeyPress "5", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.552
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "5", 1
+KeyPress "5", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.550
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "5", 1
+KeyPress "5", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.548
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "5", 1
+KeyPress "4", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.546
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "5", 1
+KeyPress "4", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.544
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "5", 1
+KeyPress "4", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.542
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "5", 1
+KeyPress "4", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.540
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "5", 1
+KeyPress "4", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.538
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "5", 1
+KeyPress "3", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.536
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "5", 1
+KeyPress "3", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.534
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "5", 1
+KeyPress "3", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.532
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "5", 1
+KeyPress "3", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.530
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "5", 1
+KeyPress "3", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.528
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "5", 1
+KeyPress "2", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.526
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "5", 1
+KeyPress "2", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.524
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "5", 1
+KeyPress "2", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.522
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "5", 1
+KeyPress "2", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.520
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "5", 1
+KeyPress "2", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.518
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "5", 1
+KeyPress "1", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.516
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "5", 1
+KeyPress "1", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.514
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "5", 1
+KeyPress "1", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.512
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "5", 1
+KeyPress "1", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.510
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "5", 1
+KeyPress "1", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.508
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "5", 1
+KeyPress "0", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.506
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "5", 1
+KeyPress "0", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.504
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "5", 1
+KeyPress "0", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.502
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "5", 1
+KeyPress "0", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.500
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "5", 1
+KeyPress "0", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.498
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "4", 1
+KeyPress "9", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.496
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "4", 1
+KeyPress "9", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.494
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "4", 1
+KeyPress "9", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.492
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "4", 1
+KeyPress "9", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.490
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "4", 1
+KeyPress "9", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.488
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "4", 1
+KeyPress "8", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.486
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "4", 1
+KeyPress "8", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.484
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "4", 1
+KeyPress "8", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.482
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "4", 1
+KeyPress "8", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.480
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "4", 1
+KeyPress "8", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.478
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "4", 1
+KeyPress "7", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.476
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "4", 1
+KeyPress "7", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.474
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "4", 1
+KeyPress "7", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.472
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "4", 1
+KeyPress "7", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.470
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "4", 1
+KeyPress "7", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.468
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "4", 1
+KeyPress "6", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.466
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "4", 1
+KeyPress "6", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.464
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "4", 1
+KeyPress "6", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.462
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "4", 1
+KeyPress "6", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.460
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "4", 1
+KeyPress "6", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.458
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "4", 1
+KeyPress "5", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.456
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "4", 1
+KeyPress "5", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.454
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "4", 1
+KeyPress "5", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.452
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "4", 1
+KeyPress "5", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.450
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "4", 1
+KeyPress "5", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.448
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "4", 1
+KeyPress "4", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.446
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "4", 1
+KeyPress "4", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.444
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "4", 1
+KeyPress "4", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.442
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "4", 1
+KeyPress "4", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.440
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "4", 1
+KeyPress "4", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.438
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "4", 1
+KeyPress "3", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.436
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "4", 1
+KeyPress "3", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.434
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "4", 1
+KeyPress "3", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.432
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "4", 1
+KeyPress "3", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.430
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "4", 1
+KeyPress "3", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.428
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "4", 1
+KeyPress "2", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.426
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "4", 1
+KeyPress "2", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.424
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "4", 1
+KeyPress "2", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.422
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "4", 1
+KeyPress "2", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.420
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "4", 1
+KeyPress "2", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.418
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "4", 1
+KeyPress "1", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.416
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "4", 1
+KeyPress "1", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.414
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "4", 1
+KeyPress "1", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.412
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "4", 1
+KeyPress "1", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.410
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "4", 1
+KeyPress "1", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.408
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "4", 1
+KeyPress "0", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.406
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "4", 1
+KeyPress "0", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.404
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "4", 1
+KeyPress "0", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.402
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "4", 1
+KeyPress "0", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.400
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "4", 1
+KeyPress "0", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.398
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "3", 1
+KeyPress "9", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.396
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "3", 1
+KeyPress "9", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.394
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "3", 1
+KeyPress "9", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.392
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "3", 1
+KeyPress "9", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.390
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "3", 1
+KeyPress "9", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.388
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "3", 1
+KeyPress "8", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.386
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "3", 1
+KeyPress "8", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.384
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "3", 1
+KeyPress "8", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.382
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "3", 1
+KeyPress "8", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.380
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "3", 1
+KeyPress "8", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.378
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "3", 1
+KeyPress "7", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.376
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "3", 1
+KeyPress "7", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.374
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "3", 1
+KeyPress "7", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.372
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "3", 1
+KeyPress "7", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.370
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "3", 1
+KeyPress "7", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.368
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "3", 1
+KeyPress "6", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.366
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "3", 1
+KeyPress "6", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.364
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "3", 1
+KeyPress "6", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.362
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "3", 1
+KeyPress "6", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.360
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "3", 1
+KeyPress "6", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.358
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "3", 1
+KeyPress "5", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.356
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "3", 1
+KeyPress "5", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.354
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "3", 1
+KeyPress "5", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.352
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "3", 1
+KeyPress "5", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.350
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "3", 1
+KeyPress "5", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.348
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "3", 1
+KeyPress "4", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.346
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "3", 1
+KeyPress "4", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.344
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "3", 1
+KeyPress "4", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.342
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "3", 1
+KeyPress "4", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.340
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "3", 1
+KeyPress "4", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.338
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "3", 1
+KeyPress "3", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.336
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "3", 1
+KeyPress "3", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.334
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "3", 1
+KeyPress "3", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.332
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "3", 1
+KeyPress "3", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.330
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "3", 1
+KeyPress "3", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.328
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "3", 1
+KeyPress "2", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.326
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "3", 1
+KeyPress "2", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.324
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "3", 1
+KeyPress "2", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.322
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "3", 1
+KeyPress "2", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.320
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "3", 1
+KeyPress "2", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.318
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "3", 1
+KeyPress "1", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.316
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "3", 1
+KeyPress "1", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.314
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "3", 1
+KeyPress "1", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.312
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "3", 1
+KeyPress "1", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.310
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "3", 1
+KeyPress "1", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.308
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "3", 1
+KeyPress "0", 1
+KeyPress "8", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.306
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "3", 1
+KeyPress "0", 1
+KeyPress "6", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.304
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "3", 1
+KeyPress "0", 1
+KeyPress "4", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.302
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "3", 1
+KeyPress "0", 1
+KeyPress "2", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+
+//-0.300
+LeftClick 1
+Delay 10
+KeyPress "BackSpace", 7
+Delay 10
+KeyPress "-", 1
+KeyPress "0", 1
+KeyPress ".", 1
+KeyPress "3", 1
+KeyPress "0", 1
+KeyPress "0", 1
+Delay 10
+KeyPress "Enter", 1
+Delay 10
+Delay 1000
+

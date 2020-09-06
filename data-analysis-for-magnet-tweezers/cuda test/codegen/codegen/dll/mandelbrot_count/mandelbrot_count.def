@@ -1,0 +1,4 @@
+EXPORTS
+mandelbrot_count
+mandelbrot_count_initialize
+mandelbrot_count_terminate

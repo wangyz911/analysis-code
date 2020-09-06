@@ -1,0 +1,32 @@
+<!-- saved from url=(0014)about:internet -->
+<html>
+<body>
+<script src="resources/eml_report_loadable_data.js"></script>
+<pre class="code">
+<span class="srcline"><span class="lineno"><a href="1,1" id="srcline1"> 1</a></span><span class="line"><span class="comment">%% 并行测试第一轮，先用范例测试GPU是否正常工作</span></span></span>
+<span class="srcline"><span class="lineno"><a href="1,2" id="srcline2"> 2</a></span><span class="line"></span></span>
+<span class="srcline"><span class="lineno"><a href="1,3" id="srcline3"> 3</a></span><span class="line"><span class="keyword">function</span> [<span class="var type1" id="S2T1U3">y</span>] = cuda_1(<span class="var type1" id="S3T2U6">x</span>,<span class="var type1" id="S4T3U7">n</span>)</span></span>
+<span class="srcline"><span class="lineno"><a href="1,4" id="srcline4"> 4</a></span><span class="line"><span class="mxinfo " id="T1:U4"><span class="var type1" id="S2T1U10">y</span> = <span class="mxinfo " id="T3:U6">0</span></span>;</span></span>
+<span class="srcline"><span class="lineno"><a href="1,5" id="srcline5"> 5</a></span><span class="line"><span class="keyword">if</span> <span class="mxinfo " id="T4:U7"><span class="var type1" id="S4T3U15">n</span> ==<span class="mxinfo " id="T3:U9">1</span></span></span></span>
+<span class="srcline"><span class="lineno"><a href="1,6" id="srcline6"> 6</a></span><span class="line">    </span></span>
+<span class="srcline"><span class="lineno"><a href="1,7" id="srcline7"> 7</a></span><span class="line">    <span class="mxinfo " id="T1:U10"><span class="var type1" id="S2T1U19">y</span> = <span class="mxinfo " id="T2:U12">zeros(size(<span class="var type1" id="S3T2U24">x</span>))</span></span>;</span></span>
+<span class="srcline"><span class="lineno"><a href="1,8" id="srcline8"> 8</a></span><span class="line">    <span class="keyword">for</span> <span class="var type1" id="S7T3U27">i</span> = <span class="mxinfo " id="T3:U15">1</span>:size(<span class="var type1" id="S3T2U32">x</span>,1)</span></span>
+<span class="srcline"><span class="lineno"><a href="1,9" id="srcline9"> 9</a></span><span class="line">        <span class="keyword">for</span> <span class="var type1" id="S8T3U36">j</span> = <span class="mxinfo " id="T3:U18">1</span>:size(<span class="var type1" id="S3T2U41">x</span>,2)</span></span>
+<span class="srcline"><span class="lineno"><a href="1,10" id="srcline10">10</a></span><span class="line">            <span class="mxinfo " id="T3:U20"><span class="mxinfo " id="T3:U21"><span class="var type1" id="S2T1U46">y</span>(<span class="var type1" id="S7T3U47">i</span>,<span class="var type1" id="S8T3U48">j</span>)</span>=<span class="mxinfo " id="T3:U25">(<span class="mxinfo " id="T3:U26"><span class="mxinfo " id="T3:U27"><span class="var type1" id="S3T2U53">x</span>(<span class="var type1" id="S7T3U54">i</span>,<span class="var type1" id="S8T3U55">j</span>)</span>^2</span>)/(<span class="mxinfo " id="T3:U31"><span class="var type1" id="S7T3U59">i</span>+<span class="var type1" id="S8T3U60">j</span></span>)</span></span>;</span></span>
+<span class="srcline"><span class="lineno"><a href="1,11" id="srcline11">11</a></span><span class="line">        <span class="keyword">end</span></span></span>
+<span class="srcline"><span class="lineno"><a href="1,12" id="srcline12">12</a></span><span class="line">    <span class="keyword">end</span></span></span>
+<span class="srcline"><span class="lineno"><a href="1,13" id="srcline13">13</a></span><span class="line"><span class="keyword">elseif</span> <span class="mxinfo " id="T4:U34"><span class="var type1" id="S4T3U63">n</span>==<span class="mxinfo " id="T3:U36">2</span></span></span></span>
+<span class="srcline"><span class="lineno"><a href="1,14" id="srcline14">14</a></span><span class="line">    </span></span>
+<span class="srcline"><span class="lineno"><a href="1,15" id="srcline15">15</a></span><span class="line">    <span class="mxinfo " id="T1:U37"><span class="var type1" id="S2T1U67">y</span> = coder.nullcopy(<span class="mxinfo " id="T2:U39">zeros(size(<span class="var type1" id="S3T2U76">x</span>))</span>)</span>;</span></span>
+<span class="srcline"><span class="lineno"><a href="1,16" id="srcline16">16</a></span><span class="line">    coder.gpu.kernel();</span></span>
+<span class="srcline"><span class="lineno"><a href="1,17" id="srcline17">17</a></span><span class="line">    <span class="keyword">for</span> <span class="var type1" id="S7T3U86">i</span> = <span class="mxinfo " id="T3:U42">1</span>:size(<span class="var type1" id="S3T2U91">x</span>,1)</span></span>
+<span class="srcline"><span class="lineno"><a href="1,18" id="srcline18">18</a></span><span class="line">        <span class="keyword">for</span> <span class="var type1" id="S8T3U95">j</span> = <span class="mxinfo " id="T3:U45">1</span>:size(<span class="var type1" id="S3T2U100">x</span>,2)</span></span>
+<span class="srcline"><span class="lineno"><a href="1,19" id="srcline19">19</a></span><span class="line">            <span class="mxinfo " id="T3:U47"><span class="message info" id="M1F1C"><span class="message info" id="M2F1C"><span class="message info" id="M3F1C"><span class="mxinfo " id="T3:U48"><span class="var type1" id="S2T1U105">y</span>(<span class="var type1" id="S7T3U106">i</span>,<span class="var type1" id="S8T3U107">j</span>)</span>=<span class="mxinfo " id="T3:U52">(<span class="mxinfo " id="T3:U53"><span class="mxinfo " id="T3:U54"><span class="var type1" id="S3T2U112">x</span>(<span class="var type1" id="S7T3U113">i</span>,<span class="var type1" id="S8T3U114">j</span>)</span>^2</span>)/(<span class="mxinfo " id="T3:U58"><span class="var type1" id="S7T3U118">i</span>+<span class="var type1" id="S8T3U119">j</span></span>)</span></span></span></span></span>;</span></span>
+<span class="srcline"><span class="lineno"><a href="1,20" id="srcline20">20</a></span><span class="line">        <span class="keyword">end</span></span></span>
+<span class="srcline"><span class="lineno"><a href="1,21" id="srcline21">21</a></span><span class="line">    <span class="keyword">end</span></span></span>
+<span class="srcline"><span class="lineno"><a href="1,22" id="srcline22">22</a></span><span class="line"><span class="keyword">end</span></span></span>
+<span class="srcline"><span class="lineno"><a href="1,23" id="srcline23">23</a></span><span class="line"><span class="keyword">end</span></span></span>
+<span class="srcline"><span class="lineno"><a href="1,24" id="srcline24">24</a></span><span class="line"></span></span>
+</pre>
+</body>
+</html>

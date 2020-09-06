@@ -1,0 +1,11 @@
+libemlrt.lib
+libcovrt.lib
+libut.lib
+libmwmathutil.lib
+/export:mexFunction
+/export:mexfilerequiredapiversion
+/export:emlrtMexFcnProperties
+/export:mandelbrot_count
+/export:mandelbrot_count_initialize
+/export:mandelbrot_count_terminate
+/export:mandelbrot_count_atexit
