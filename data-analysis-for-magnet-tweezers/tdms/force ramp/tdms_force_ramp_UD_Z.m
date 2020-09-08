@@ -6,7 +6,7 @@ clear;
 %% 读取库函数和头文件
 %Check if the paths to 'nilibddc.dll' and 'nilibddc_m.h' have been
 %selected. If not, prompt the user to browse to each of the files.
-NI_TDM_DLL_Path = 'D:\analysis code\data-analysis-for-magnet-tweezers\tdms\bin\64-bit\nilibddc.dll';
+NI_TDM_DLL_Path = 'C:\analysis-code\data-analysis-for-magnet-tweezers\tdms\bin\64-bit\nilibddc.dll';
 if exist('NI_TDM_DLL_Path','var')==0
     [dllfile,dllfolder]=uigetfile('*dll','Select nilibddc.dll');
     %提取库名称
@@ -14,7 +14,7 @@ if exist('NI_TDM_DLL_Path','var')==0
     NI_TDM_DLL_Path=fullfile(dllfolder,dllfile);
 end
 libname='nilibddc';
-NI_TDM_H_Path = 'D:\analysis code\data-analysis-for-magnet-tweezers\tdms\include\64-bit\nilibddc_m.h';
+NI_TDM_H_Path = 'C:\analysis-code\data-analysis-for-magnet-tweezers\tdms\include\64-bit\nilibddc_m.h';
 if exist('NI_TDM_H_Path','var')==0
     [hfile,hfolder]=uigetfile('*h','Select nilibddc_m.h');
     NI_TDM_H_Path=fullfile(hfolder,hfile);
