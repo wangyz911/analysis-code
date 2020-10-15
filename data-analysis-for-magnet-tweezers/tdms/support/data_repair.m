@@ -20,6 +20,10 @@ t = t';
     f = @(c,x)c(1)*x+c(2);
     c0=[1,0];
     data_sm = smooth(data_ramp,2000);% 平滑的点越多效果越好，不会影响数据原本的波动,但是在首位少于1000点时会有比较明显的拖尾效应。
+    elseif fit_func==5
+    f = @(c,x)c(1)*x+c(2);
+    c0=[1,0];
+    data_sm = smooth(data_ramp,200);% 平滑的点越多效果越好，不会影响数据原本的波动,但是在首位少于1000点时会有比较明显的拖尾效应。
     elseif fit_func ==2
            f = @(c,x)c(1)*x+c(2);
            c0=[1,0];
@@ -77,14 +81,16 @@ input('按任意键开始选择基准区间','s');
         rep_end = N;
     end
 %     base_rep = base_fit(1).*t(rep_start:rep_end)+base_fit(2);
-if fit_func==3
-%     base_rep = base_fit(1).*(t(rep_start:rep_end)).^(1/base_fit(2))+base_fit(3);
+% if fit_func==3
+% %     base_rep = base_fit(1).*(t(rep_start:rep_end)).^(1/base_fit(2))+base_fit(3);
+%     base_rep = base_fit(1).*t(rep_start:rep_end)+base_fit(2);
+% elseif fit_func==1
+%     base_rep = base_fit(1).*t(rep_start:rep_end)+base_fit(2);
+% elseif fit_func ==2
+%     base_rep = base_fit(1).*t(rep_start:rep_end)+base_fit(2);
+% end
+
     base_rep = base_fit(1).*t(rep_start:rep_end)+base_fit(2);
-elseif fit_func==1
-    base_rep = base_fit(1).*t(rep_start:rep_end)+base_fit(2);
-elseif fit_func ==2
-    base_rep = base_fit(1).*t(rep_start:rep_end)+base_fit(2);
-end
     data_ramp(rep_start:rep_end) = data_ramp(rep_start:rep_end)-data_sm(rep_start:rep_end)+base_rep;
    %将修复区的前后对齐。对齐的设计非常巧妙，得意之作
 
