@@ -14,10 +14,10 @@ rise = 1-exp(-x.^2./t1);
 wnd = sqrt(fall.*rise.*x.*2);
 
 rdp_with_pow = rdp.*wnd;
-
-% plot(x,wnd);
-plot(r_sample,rdp);
-hold on
-plot (r_sample,rdp_with_pow)
+% 
+% % plot(x,wnd);
+% plot(r_sample,rdp);
+% hold on
+% plot (r_sample,rdp_with_pow)
 end
 

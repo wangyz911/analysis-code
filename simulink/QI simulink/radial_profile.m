@@ -13,7 +13,7 @@ function [cenX,cenY] = radial_profile(img_array,xc,yc,r_step,theta_num_perQ)
  cenY = zeros(img_num,1);
 %% 第二步，按参数生成QI的采样极坐标，并生成极坐标矩阵
  % 此处令r_max 等于距离边界最小的, 然而并不能这样做，会导致校准的时候LUT 不整齐
- r_max = floor(ROI_size/2)-2;
+ r_max = floor(ROI_size/2)-5;
 %  r_max = 10;
  r = 0:r_step:r_max;
  r = r(1:(end-1));

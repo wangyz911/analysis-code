@@ -2,10 +2,10 @@
 
 
  time = zeros(10,1);
- cycle = 1:10;
+ cycle = 1:100;
 for p = cycle
 image_name = 'bias1.tif';% 图像名
-            image =  imread(strcat('D:\analysis code\simulink\QI simulink\img_extract\',image_name));%读入一张图像
+            image =  imread(strcat('C:\analysis-code\simulink\QI simulink\img_extract\',image_name));%读入一张图像
 %             [cenX,cenY] = cu_cenroid(image,1);
 %             imshow(image);
 %             hold on
@@ -32,5 +32,6 @@ image_name = 'bias1.tif';% 图像名
             end
             time(p) = toc;
 end
+figure;
             plot(cycle,time);
 

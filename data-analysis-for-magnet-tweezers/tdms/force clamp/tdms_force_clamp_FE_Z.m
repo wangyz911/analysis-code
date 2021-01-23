@@ -6,7 +6,7 @@ clear;
 %% 读取库函数和头文件
 %Check if the paths to 'nilibddc.dll' and 'nilibddc_m.h' have been
 %selected. If not, prompt the user to browse to each of the files.
-NI_TDM_DLL_Path = 'E:\analysis code\data-analysis-for-magnet-tweezers\tdms\bin\64-bit\nilibddc.dll';
+NI_TDM_DLL_Path = 'C:\analysis-code\data-analysis-for-magnet-tweezers\tdms\bin\64-bit\nilibddc.dll';
 if exist('NI_TDM_DLL_Path','var')==0
     [dllfile,dllfolder]=uigetfile('*dll','Select nilibddc.dll');
     %提取库名称
@@ -14,7 +14,7 @@ if exist('NI_TDM_DLL_Path','var')==0
     NI_TDM_DLL_Path=fullfile(dllfolder,dllfile);
 end
 libname='nilibddc';
-NI_TDM_H_Path = 'E:\analysis code\data-analysis-for-magnet-tweezers\tdms\include\64-bit\nilibddc_m.h';
+NI_TDM_H_Path = 'C:\analysis-code\data-analysis-for-magnet-tweezers\tdms\include\64-bit\nilibddc_m.h';
 if exist('NI_TDM_H_Path','var')==0
     [hfile,hfolder]=uigetfile('*h','Select nilibddc_m.h');
     NI_TDM_H_Path=fullfile(hfolder,hfile);
@@ -160,12 +160,12 @@ if input('输入1选择区间','s')=='1'
         fig_name = strcat(name_save,'.fig');
         saveas(gcf,fig_name);
         %%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 参数设置
-        stepsize= -0.005;
+        stepsize= -0.01;
         ex_num = 1;
         
         % 计算均值，即extension curve, 单位还是微米
         [ ext_curve, zmag_i ] = clamp_ext_mean(data_denoised,zmag_ramp,zmag_start,zmag_end,stepsize,ex_num);
-        force_curve = force_zmag_m280(zmag_i,4,zmag_shift);
+        force_curve = force_zmag_m280(zmag_i,4.1,zmag_shift);
         
         figure;
         plot_size = min(size(ext_curve,1),size(force_curve,1));
